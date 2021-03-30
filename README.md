@@ -5,7 +5,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=SeongHyeokLee&fontSize=80&animation=fadeIn)
 
 ## I am a Java Backend Developer. (Backend Developer)
-- Daeyoon Associates 2018.03 ~ present ([![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://java.com/ko/) [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](https://spring.io/))
+Daeyoon Associates 2018.03 ~ present ([![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://java.com/ko/) [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](https://spring.io/))
 <br/>
 
 </div>
