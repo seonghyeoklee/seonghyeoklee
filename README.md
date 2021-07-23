@@ -17,8 +17,7 @@ Daeyoon Associates 2018.03 ~ present ([![Java Badge](https://img.shields.io/badg
 
 - Backend Develop Skills
 
-   [![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://java.com/ko/) [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](https://spring.io/) [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/) [![Flask Badge](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![Django Badge](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)(https://docs.djangoproject.com/ko/3.2/intro/)
+   [![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://java.com/ko/) [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](https://spring.io/) [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/) [![Flask Badge](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/) [![Django Badge](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)](https://docs.djangoproject.com/ko/3.2/intro/)
 
 - DB for Development Skills 
 
