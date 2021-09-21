@@ -29,7 +29,7 @@ Daeyoon Associates 2018.03 ~ present ([![Java Badge](https://img.shields.io/badg
 
 - OS
 
-   [![Redhat Badge](https://img.shields.io/badge/Redhat-EE0000?style=flat-square&logo=Red%20hat&logoColor=white)](https://www.redhat.com/ko) [![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)](https://ubuntu.com/) [![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)](https://www.microsoft.com/ko-kr/windows) [![Mac Badge](https://img.shields.io/badge/Mac-000000?style=flat-square&logo=macos&logoColor=white)](https://www.apple.com/kr/macos/big-sur/)
+[![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)](https://ubuntu.com/) [![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)](https://www.microsoft.com/ko-kr/windows) [![Mac Badge](https://img.shields.io/badge/Mac-000000?style=flat-square&logo=macos&logoColor=white)](https://www.apple.com/kr/macos/big-sur/)
 
 - IDE
    
