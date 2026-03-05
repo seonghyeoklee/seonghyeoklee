@@ -1,21 +1,3 @@
-<div align="center">
-
-# Seonghyeok Lee
-
-**Backend Developer** · Seoul, South Korea
-
-Spring 생태계 기반의 백엔드 시스템을 설계하고 구현합니다.
-
-</div>
-
----
-
-### Tech
-
-`Java` `Kotlin` `Spring Boot` `Spring Cloud` `JPA` `MySQL` `Redis` `Docker` `AWS`
-
----
-
 ### Open Source Contributions
 
 | Project | Contribution | Status |
