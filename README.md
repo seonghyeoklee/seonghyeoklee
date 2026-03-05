@@ -11,6 +11,12 @@
 <img src="https://img.shields.io/badge/MySQL-E6B91E?style=flat&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Redis-9F1D10?style=flat&logo=Redis&logoColor=white">
 
+### 🌱 Open Source Contributions
+
+| Project | Contribution |
+|---------|-------------|
+| [spring-cloud-stream](https://github.com/spring-cloud/spring-cloud-stream) | [Add Automatic-Module-Name manifest entry (#3179)](https://github.com/spring-cloud/spring-cloud-stream/pull/3179) |
+
 ### 📫 Contact
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@shlee327) 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:dltjdgur327@gmail.com)
